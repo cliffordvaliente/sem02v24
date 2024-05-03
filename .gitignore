@@ -7,7 +7,7 @@
 !go.mod
 !*.svg
 !*.jpg
-
+!*.txt
 !README.md
 !LICENSE
 !Dockerfile-base
