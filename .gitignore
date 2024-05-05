@@ -18,6 +18,9 @@
 !*.sh
 !*.py
 !*.cs
+!*simplest-webserver
+!* oppg1.1.pcap
+
 # !Makefile
 # ...even if they are in subdirectories
 !*/
