@@ -3,7 +3,7 @@
 
 void overflow(int num) {
     int arr[100];
-    printf("%d\n", num);
+//printf("%d\n", num);
     overflow(num + 1);
 }
 
