@@ -1,4 +1,4 @@
-# Ignore everything
+"Ignore everything
 *
 # But not these files...
 !/.gitignore
@@ -10,7 +10,6 @@
 !*.txt
 !README.md
 !LICENSE
-!Dockerfile-base
 !*.c
 !*.java
 !*.h
